@@ -1,0 +1,64 @@
+.navbar {
+    overflow: hidden;
+    background-color: rgb(113, 170, 49);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.main {
+    margin-top: auto;
+}
+
+.main {
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: #F2EDED;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    text-align: Justify;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(113, 170, 49);
+    color: rgb(255, 255, 255);
+    display: block
+}
+
+.social li a {
+    height: 32px;
+    width: 32px;
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    margin: 0;
+}
+
+.social a[href*="facebook.com"] {
+    background-image: url(../img/Facebook.png);
+}
+
+.social a[href*="twitter.com"] {
+    background-image: url(../img/twitter.png);
+}
+
+.social a[href*="instagram.com"] {
+    background-image: url(../img/instagram.png);
+}

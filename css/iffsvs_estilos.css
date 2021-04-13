@@ -1,0 +1,75 @@
+		body {
+			color: #333333;
+			font-family:"Lucida Sans Unicode",
+				"Lucida Grande", sans-serif;
+				background-color: #F2EDED;
+				margin-left: auto;
+				margin-right:auto;
+				width: 940px;
+				text-align: Justify;
+		}
+		
+		h1 {
+			background-image: url(../img/fundoh1.jpg);
+			padding: 10px;
+		}
+		
+		h2{
+			border-bottom: 2px solid #333333;
+			margin-top: 30px;
+	 		
+		}
+		
+		P{
+		   padding: 0 45px;
+		   text-indent: 15px;
+		}
+		
+		
+		   #logo{
+			
+		   background-color: #F2EDED;
+		   border: 1px double #ccc;
+		   text-align: center;
+		
+	}
+	
+	
+			#principal{
+			color:red;
+			padding: 10px;
+			text-align: center;
+			background-image: url( img/fundoh1.jpg);
+		}
+		
+		#portico{
+			margin-left:auto;
+			margin-right:auto;
+			width: 550px;
+		}		
+		
+		#vista-aerea {
+			float: right;
+			margin: 0 0 10px 10px;
+			background-color: #F2EDED;
+			border: 1px double #ccc;
+			text-align: left;
+		}
+		
+		
+		figcaption{
+			font-style: italic;
+			margin-top: 10px;
+		}
+		
+		#rodape{
+			color: #777777;
+			margin: 30px 0;
+			padding: 30px 0;
+		}
+		
+		#rodape img {
+			magin-right: 30px;
+			vertical-align: middle;
+			width: 94px;
+		}
